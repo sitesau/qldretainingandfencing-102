@@ -1,0 +1,22 @@
+{
+  "wheel_id": 520,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-102",
+  "project": "retaining-wall-builders-brisbane-warranty-6f6ed1eff72d2a182d55c",
+  "parent_t1_ref": "qldretainingandfencing-150",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall builders brisbane warranty",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-brisbane-warranty-6f6ed1eff72d2a182d55c/",
+  "tier": "T2",
+  "writeback_nonce": "51aa29e61c731527",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane-e80aee2a6e3cbea0a4cdcf94ea5/",
+      "anchor": "Retaining Wall Builders Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
